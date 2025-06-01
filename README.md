@@ -45,6 +45,6 @@ Backend developer with a passion for crafting robust backend systems and databas
 ## 🎵 Currently Listening To
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=andyokeyes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=andyokeyes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="spotify-github-profile" width="400" height="120" />
   </a>
 </p>
