@@ -44,7 +44,7 @@ Backend developer with a passion for crafting robust backend systems and databas
 
 ## 🎵 Currently Listening To
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ZahirJS&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ZahirJS&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="Spotify Now Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=andyokeyes&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" alt="spotify-github-profile" />
   </a>
 </p>
