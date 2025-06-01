@@ -39,5 +39,5 @@ Backend developer with a passion for crafting robust backend systems and databas
 
 ## Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZahirJS&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Stars&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZahirJS&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,PullRequest&column=4" alt="trophies" />
 </p>
