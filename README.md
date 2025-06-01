@@ -41,3 +41,8 @@ Backend developer with a passion for crafting robust backend systems and databas
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZahirJS&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,PullRequest&column=4" alt="trophies" />
 </p>
+
+## 🎵 Currently Listening To
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+</p>
