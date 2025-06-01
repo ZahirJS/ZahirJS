@@ -13,7 +13,7 @@ Backend developer with a passion for crafting robust backend systems and databas
 
 ## Technologies & Tools
 
-### Core:
+<p align="center"><strong>Core:</strong></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -22,12 +22,12 @@ Backend developer with a passion for crafting robust backend systems and databas
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-### DSA:
+<p align="center"><strong>DSA:</strong></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
-### Other Technologies:
+<p align="center"><strong>Other Technologies:</strong></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
@@ -39,5 +39,5 @@ Backend developer with a passion for crafting robust backend systems and databas
 
 ## Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZahirJS&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZahirJS&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Repositories,Commits,Stars" alt="trophies" />
 </p>
